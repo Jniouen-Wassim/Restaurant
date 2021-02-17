@@ -1,5 +1,5 @@
 # **Restaurant "Au Trois-Quart"**
-Find our restaurant website [here](https://jeanfabry.github.io/Restaurant/)
+Find our restaurant website [here](https://jeanfabry.github.io/Showcase-website-fictional-restaurant/)
 
 ## The "Trois-Quart" Team : 
 * Jean Fabry
